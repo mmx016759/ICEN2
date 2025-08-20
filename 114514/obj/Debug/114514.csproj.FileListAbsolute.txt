@@ -1,0 +1,24 @@
+C:\Users\admin\Desktop\AE\ACR\icen\icen.deps.json
+C:\Users\admin\Desktop\AE\ACR\icen\icen.dll
+C:\Users\admin\Desktop\AE\ACR\icen\icen.pdb
+C:\Users\admin\Desktop\114514\114514\obj\Debug\114514.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\114514\114514\obj\Debug\114514.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\114514\114514\obj\Debug\114514.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\114514\114514\obj\Debug\114514.AssemblyInfo.cs
+C:\Users\admin\Desktop\114514\114514\obj\Debug\114514.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\114514\114514\obj\Debug\icen.dll
+C:\Users\admin\Desktop\114514\114514\obj\Debug\refint\icen.dll
+C:\Users\admin\Desktop\114514\114514\obj\Debug\icen.pdb
+C:\Users\admin\Desktop\114514\114514\obj\Debug\ref\icen.dll
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\114514.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\114514.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\114514.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\114514.AssemblyInfo.cs
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\114514.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AE\ACR\icen2\icen2.deps.json
+C:\Users\admin\Desktop\AE\ACR\icen2\icen2.dll
+C:\Users\admin\Desktop\AE\ACR\icen2\icen2.pdb
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\icen2.dll
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\refint\icen2.dll
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\icen2.pdb
+C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\ref\icen2.dll
