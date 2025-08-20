@@ -9,7 +9,7 @@ using ImGuiNET;
 // ReSharper disable MemberCanBePrivate.Global
 // ReSharper disable ConvertToConstant.Global
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 public class QtStyle
 {

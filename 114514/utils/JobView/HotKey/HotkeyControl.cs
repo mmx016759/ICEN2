@@ -1,5 +1,5 @@
 ﻿
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 public class HotkeyControl
 {

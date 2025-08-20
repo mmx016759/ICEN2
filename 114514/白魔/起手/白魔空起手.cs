@@ -2,13 +2,13 @@
 using AEAssist.CombatRoutine.Module;
 using AEAssist.CombatRoutine.Module.Opener;
 using AEAssist.Helper;
-using icen.common;
-using icen.白魔.Utilities.设置;
-using icen.白魔.View.QT;
-using icen.白魔.技能数据;
+using ICEN2.common;
+using ICEN2.白魔.技能数据;
+using ICEN2.白魔.界面.QT;
+using ICEN2.白魔.设置.设置;
 
 #pragma warning disable CS8618
-namespace icen.白魔.起手
+namespace ICEN2.白魔.起手
 {
     public class 白魔空起手 : IOpener
     {

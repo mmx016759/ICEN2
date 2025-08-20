@@ -10,7 +10,7 @@ using Keys = AEAssist.Define.HotKey.Keys;
 // ReSharper disable FieldCanBeMadeReadOnly.Global
 // ReSharper disable MemberCanBePrivate.Global
 
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 /// 快捷键窗口类
 public class HotkeyWindow(

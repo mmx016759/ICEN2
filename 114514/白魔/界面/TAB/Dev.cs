@@ -2,12 +2,12 @@
 using AEAssist.CombatRoutine.Module;
 using AEAssist.Extension;
 using AEAssist.MemoryApi;
-using icen.common;
-using icen.白魔.Utilities.设置;
+using ICEN2.common;
+using ICEN2.白魔.设置.设置;
 using ImGuiNET;
-using JobViewWindow = icen.utils.JobView.JobViewWindow;
+using JobViewWindow = ICEN2.utils.JobView.JobViewWindow;
 
-namespace icen.白魔.View.TAB;
+namespace ICEN2.白魔.界面.TAB;
 
 public static class Dev
 {

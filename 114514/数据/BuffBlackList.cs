@@ -1,4 +1,4 @@
-﻿namespace icen.数据;
+﻿namespace ICEN2.数据;
 
 /// <summary>
 /// FF14中阻止玩家使用技能的Buff黑名单

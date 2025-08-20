@@ -1,9 +1,9 @@
 ﻿using Dalamud.Game.Text.SeStringHandling;
 using FFXIVClientStructs.FFXIV.Common.Math;
-using icen.utils.JobView;
+using ICEN2.utils.JobView;
 using ImGuiNET;
 
-namespace icen.白魔.Utilities.设置;
+namespace ICEN2.白魔.设置.设置;
 
 public class WhiteMageSettingsUI
 {

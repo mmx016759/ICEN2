@@ -9,7 +9,7 @@ using AEAssist.Helper;
 // ReSharper disable AutoPropertyCanBeMadeGetOnly.Global
 // ReSharper disable UnusedAutoPropertyAccessor.Global
 
-namespace icen.utils.Triggers;
+namespace ICEN2.utils.Triggers;
 
 public class Omega麻将状态: ITriggerAction
 {

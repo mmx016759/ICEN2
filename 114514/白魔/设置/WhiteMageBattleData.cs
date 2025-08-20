@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace icen.白魔.Utilities;
+namespace ICEN2.白魔.设置;
 
 public class WhiteMageBattleData
 {

@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using AEAssist.Helper;
 
-namespace icen.utils.Triggers.Helper;
+namespace ICEN2.utils.Triggers.Helper;
 
 public class OpenerHelper
 {

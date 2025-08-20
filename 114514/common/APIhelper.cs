@@ -2,7 +2,6 @@
 using AEAssist;
 using AEAssist.Avoid;
 using AEAssist.CombatRoutine;
-using AEAssist.CombatRoutine.Module;
 using AEAssist.Define;
 using AEAssist.Define.HotKey;
 using AEAssist.Extension;
@@ -13,7 +12,7 @@ using Dalamud.Game.ClientState.Objects.Types;
 using Dalamud.Interface.Textures.TextureWraps;
 using FFXIVClientStructs.FFXIV.Client.Game.Event;
 
-namespace icen.common
+namespace ICEN2.common
 {
     /// <summary>
     /// AEAssist 完整API封装

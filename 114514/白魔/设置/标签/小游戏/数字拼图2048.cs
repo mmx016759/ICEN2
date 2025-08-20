@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using ImGuiNET;
 
-namespace icen.白魔.Utilities.标签.小游戏
+namespace ICEN2.白魔.设置.标签.小游戏
 {
     public class 数字拼图2048 : I游戏接口
     {

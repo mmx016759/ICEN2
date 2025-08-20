@@ -1,6 +1,6 @@
 ﻿
 // ReSharper disable FieldCanBeMadeReadOnly.Global
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 public struct HotKetSpell(string n, uint s, int t)
 {

@@ -1,9 +1,7 @@
-﻿using ImGuiNET;
-using System.Numerics;
-using icen.common;
-using System.Collections.Generic;
+﻿using ICEN2.common;
+using ImGuiNET;
 
-namespace icen.白魔.Utilities.标签
+namespace ICEN2.白魔.设置.标签
 {
     public static class Debug标签页
     {

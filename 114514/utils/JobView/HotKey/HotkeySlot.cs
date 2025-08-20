@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 /// <summary>
 /// 快捷键事件

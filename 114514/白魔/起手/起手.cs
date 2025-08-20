@@ -1,7 +1,7 @@
 ﻿using AEAssist.CombatRoutine.Module.Opener;
-using icen.白魔.Utilities.设置;
+using ICEN2.白魔.设置.设置;
 
-namespace icen.白魔.起手
+namespace ICEN2.白魔.起手
 {
     public static class 起手
     {

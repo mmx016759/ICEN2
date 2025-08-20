@@ -1,6 +1,6 @@
 ﻿// ReSharper disable MemberCanBePrivate.Global
 
-namespace icen.utils;
+namespace ICEN2.utils;
 
 public static class Map
 {

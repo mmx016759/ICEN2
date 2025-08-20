@@ -1,12 +1,11 @@
 ﻿using AEAssist.CombatRoutine;
-using icen.白魔.Main;
-using icen.白魔.Utilities;
-using icen.白魔.Utilities.设置;
-using icen.白魔.View;
+using ICEN2.白魔.Main;
+using ICEN2.白魔.界面;
+using ICEN2.白魔.设置.设置;
 
 // ReSharper disable UnusedType.Global
 
-namespace icen.白魔;
+namespace ICEN2.白魔;
 
 public class 白魔ACR : IRotationEntry
 {

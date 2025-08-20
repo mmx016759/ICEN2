@@ -2,13 +2,13 @@ using System.Numerics;
 using AEAssist.CombatRoutine.Module;
 using AEAssist.CombatRoutine.Trigger;
 using AEAssist.GUI;
-using icen.utils.JobView.HotKey;
+using ICEN2.utils.JobView.HotKey;
 using ImGuiNET;
 
 // ReSharper disable FieldCanBeMadeReadOnly.Local
 #pragma warning disable CS9113 // 参数未读。
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 public class MainWindow
 {

@@ -5,9 +5,8 @@ using AEAssist.CombatRoutine.Module;
 using AEAssist.CombatRoutine.View;
 using AEAssist.Helper;
 using Dalamud.Interface.Utility.Raii;
-using icen.utils.JobView.HotKey;
-using icen.白魔.Utilities;
-using icen.白魔.Utilities.设置;
+using ICEN2.utils.JobView.HotKey;
+using ICEN2.白魔.设置;
 using ImGuiNET;
 
 // ReSharper disable FieldCanBeMadeReadOnly.Local
@@ -16,7 +15,7 @@ using ImGuiNET;
 // ReSharper disable UnusedMember.Global
 #pragma warning disable CS8618 // 在退出构造函数时，不可为 null 的字段必须包含非 null 值。请考虑声明为可以为 null。
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 public class JobViewWindow : IRotationUI
 {

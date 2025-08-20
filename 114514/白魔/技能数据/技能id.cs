@@ -1,7 +1,6 @@
 ﻿using AEAssist;
-using icen.common;
 
-namespace icen.白魔.技能数据;
+namespace ICEN2.白魔.技能数据;
 
 public class 技能id
 {

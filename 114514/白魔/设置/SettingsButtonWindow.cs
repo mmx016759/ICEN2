@@ -1,10 +1,10 @@
-﻿﻿using System;
-using System.Collections.Generic;
-using System.Numerics;
+﻿using System.Numerics;
+using ICEN2.白魔.设置.设置;
 using ImGuiNET;
-using icen.白魔.Utilities.设置; // 添加必要的命名空间引用
 
-namespace icen.白魔.Utilities
+// 添加必要的命名空间引用
+
+namespace ICEN2.白魔.设置
 {
     public static class SettingsButtonWindow
     {

@@ -1,13 +1,13 @@
 ﻿using System.Numerics;
 using AEAssist.CombatRoutine.Trigger;
 using AEAssist.GUI;
-using icen.白魔.View.QT;
+using ICEN2.白魔.界面.QT;
 using ImGuiNET;
 
 // ReSharper disable MemberCanBePrivate.Global
 // ReSharper disable FieldCanBeMadeReadOnly.Global
 
-namespace icen.白魔.triggers;
+namespace ICEN2.白魔.时间轴设置;
 
 public class 白魔时间轴新QT设置: ITriggerAction
 {

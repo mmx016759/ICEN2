@@ -1,10 +1,9 @@
-﻿using AEAssist.CombatRoutine.View.JobView.HotkeyResolver;
-using icen.白魔.Utilities;
-using icen.白魔.Utilities.设置;
+﻿using ICEN2.白魔.设置;
+using ICEN2.白魔.设置.设置;
 
 // ReSharper disable UnusedMember.Global
 
-namespace icen.白魔.View.QT;
+namespace ICEN2.白魔.界面.QT;
 
 public static class 白魔Qt
     {

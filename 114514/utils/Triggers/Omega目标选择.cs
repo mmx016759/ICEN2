@@ -5,7 +5,7 @@ using AEAssist.MemoryApi;
 
 // ReSharper disable UnusedAutoPropertyAccessor.Global
 
-namespace icen.utils.Triggers;
+namespace ICEN2.utils.Triggers;
 
 public class Omega目标选择 : ITriggerAction
 {

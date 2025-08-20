@@ -1,10 +1,11 @@
 ﻿using AEAssist.CombatRoutine.Module;
 using AEAssist.Helper;
-using icen.common;
-using icen.数据;
-using icen.白魔.View.QT;
-using icen.白魔.技能数据;
-namespace icen.白魔.循环.能力技;
+using ICEN2.common;
+using ICEN2.数据;
+using ICEN2.白魔.技能数据;
+using ICEN2.白魔.界面.QT;
+
+namespace ICEN2.白魔.循环.能力技;
 
 public class 法令 : ISlotResolver
 {

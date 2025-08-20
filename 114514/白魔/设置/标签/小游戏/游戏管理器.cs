@@ -1,4 +1,4 @@
-﻿namespace icen.白魔.Utilities.标签.小游戏
+﻿namespace ICEN2.白魔.设置.标签.小游戏
 {
     public static class 游戏管理器
     {

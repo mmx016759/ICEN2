@@ -1,13 +1,12 @@
-﻿using icen.白魔.Utilities;
-using icen.白魔.Utilities.标签;
-using icen.白魔.Utilities.设置;
-using icen.白魔.View.Hotkey;
-using icen.白魔.View.QT;
-using icen.白魔.View.TAB;
-using JobViewWindow = icen.utils.JobView.JobViewWindow;
+﻿using ICEN2.白魔.界面.Hotkey;
+using ICEN2.白魔.界面.QT;
+using ICEN2.白魔.界面.TAB;
+using ICEN2.白魔.设置.标签;
+using ICEN2.白魔.设置.设置;
+using JobViewWindow = ICEN2.utils.JobView.JobViewWindow;
 
 
-namespace icen.白魔.View;
+namespace ICEN2.白魔.界面;
 
 public static class baseUI
 {

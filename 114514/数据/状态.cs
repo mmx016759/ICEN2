@@ -1,4 +1,4 @@
-﻿namespace icen.数据;
+﻿namespace ICEN2.数据;
 
 public class 状态
 {

@@ -1,10 +1,10 @@
 ﻿using System.Numerics;
 using AEAssist.IO;
-using icen.utils.JobView;
-using icen.utils.JobView.HotKey;
-using icen.白魔.技能数据;
+using ICEN2.utils.JobView;
+using ICEN2.utils.JobView.HotKey;
+using ICEN2.白魔.技能数据;
 
-namespace icen.白魔.Utilities.设置;
+namespace ICEN2.白魔.设置.设置;
 
 public class 默认值
 {

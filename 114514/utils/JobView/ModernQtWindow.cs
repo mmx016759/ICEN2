@@ -2,7 +2,7 @@ using System.Numerics;
 using AEAssist.Helper;
 using ImGuiNET;
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 /// <summary>
 /// 现代化Qt窗口组件

@@ -1,14 +1,14 @@
 ﻿using AEAssist.CombatRoutine;
-using icen.utils;
-using icen.utils.Triggers;
-using icen.utils.Triggers.Helper;
-using icen.白魔.triggers;
-using icen.白魔.Utilities;
-using icen.白魔.Utilities.设置;
-using icen.白魔.View;
-using icen.白魔.循环;
+using ICEN2.utils;
+using ICEN2.utils.Triggers;
+using ICEN2.utils.Triggers.Helper;
+using ICEN2.白魔.循环;
+using ICEN2.白魔.时间轴设置;
+using ICEN2.白魔.界面;
+using ICEN2.白魔.设置;
+using ICEN2.白魔.设置.设置;
 
-namespace icen.白魔.Main;
+namespace ICEN2.白魔.Main;
 
 public static class WhiteMageACR
 {

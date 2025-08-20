@@ -1,10 +1,10 @@
 ﻿using AEAssist.CombatRoutine.Trigger;
 using AEAssist.GUI;
-using icen.common;
+using ICEN2.common;
 
 // ReSharper disable UnusedAutoPropertyAccessor.Global
 
-namespace icen.白魔.triggers;
+namespace ICEN2.白魔.时间轴设置;
 
 public class 白魔时间轴红花状态 : ITriggerCond
 {

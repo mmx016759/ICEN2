@@ -22,3 +22,12 @@ C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\icen2.dll
 C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\refint\icen2.dll
 C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\icen2.pdb
 C:\Users\admin\Desktop\114514 - 副本\114514\obj\Debug\ref\icen2.dll
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\114514.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\114514.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\114514.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\114514.AssemblyInfo.cs
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\114514.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\ICEN2.dll
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\refint\ICEN2.dll
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\ICEN2.pdb
+C:\Users\admin\Desktop\ICEN\114514\obj\Debug\ref\ICEN2.dll

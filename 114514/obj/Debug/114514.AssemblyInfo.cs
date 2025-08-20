@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICEN2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+cd376b081133cd26cf4d9116cc0aa4e2fa5ddaba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICEN2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICEN2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]

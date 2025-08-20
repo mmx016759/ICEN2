@@ -1,7 +1,7 @@
-﻿using icen.白魔.Utilities.标签.小游戏;
+﻿using ICEN2.白魔.设置.标签.小游戏;
 using ImGuiNET;
 
-namespace icen.白魔.Utilities.标签
+namespace ICEN2.白魔.设置.标签
 {
     public static class 其他标签页
     {

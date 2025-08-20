@@ -3,14 +3,14 @@ using AEAssist;
 using AEAssist.GUI;
 using AEAssist.Helper;
 using AEAssist.MemoryApi;
-using icen.utils.JobView.HotKey;
+using ICEN2.utils.JobView.HotKey;
 using ImGuiNET;
 using Keys = AEAssist.Define.HotKey.Keys;
 // ReSharper disable MemberCanBePrivate.Global
 // ReSharper disable FieldCanBeMadeReadOnly.Global
 // ReSharper disable FieldCanBeMadeReadOnly.Local
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 /// Qt窗口类
 public class QtWindow

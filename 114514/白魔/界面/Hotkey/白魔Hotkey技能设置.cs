@@ -1,6 +1,6 @@
-using icen.白魔.技能数据;
+using ICEN2.白魔.技能数据;
 
-namespace icen.白魔.View.Hotkey;
+namespace ICEN2.白魔.界面.Hotkey;
 
 public static class 白魔Hotkey技能设置
 {

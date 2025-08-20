@@ -2,7 +2,7 @@
 
 using AEAssist.CombatRoutine;
 
-namespace icen.白魔.Utilities.设置
+namespace ICEN2.白魔.设置.设置
 {
     public class HotkeySetting
     {

@@ -1,10 +1,8 @@
-﻿﻿﻿﻿using System.Numerics;
-using System.IO;
-using System.Text.Json;
-using icen.白魔.Utilities.标签;
+﻿using System.Numerics;
+using ICEN2.白魔.设置.标签;
 using ImGuiNET;
 
-namespace icen.白魔.Utilities
+namespace ICEN2.白魔.设置
 {
     public class 设置配置
     {

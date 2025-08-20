@@ -6,14 +6,14 @@ using AEAssist.Helper;
 using AEAssist.MemoryApi;
 using Dalamud.Game.ClientState.Objects.Types;
 using Dalamud.Interface.Textures.TextureWraps;
-using icen.common;
-using icen.白魔.技能数据;
+using ICEN2.common;
+using ICEN2.白魔.技能数据;
 using ImGuiNET;
 
 // ReSharper disable FieldCanBeMadeReadOnly.Local
 
 
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 public class HotKeyResolver(Spell p, HotKeyTarget hotKeyTarget) : IHotkeyResolver
 {

@@ -1,13 +1,13 @@
 ﻿using AEAssist.Helper;
 using Dalamud.Game.Text.SeStringHandling;
-using icen.utils;
-using icen.utils.JobView;
-using icen.白魔.Utilities.设置;
+using ICEN2.utils;
+using ICEN2.utils.JobView;
+using ICEN2.白魔.设置.设置;
 using ImGuiNET;
 using Vector2 = System.Numerics.Vector2;
 using Vector4 = System.Numerics.Vector4;
 
-namespace icen.白魔.Utilities.标签
+namespace ICEN2.白魔.设置.标签
 {
     public static class 设置标签页
     {

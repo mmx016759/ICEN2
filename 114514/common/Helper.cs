@@ -11,11 +11,10 @@ using Dalamud.Game.ClientState.Objects.Types;
 using FFXIVClientStructs.FFXIV.Client.Game;
 using FFXIVClientStructs.FFXIV.Client.Game.Object;
 using FFXIVClientStructs.FFXIV.Common.Component.BGCollision;
-using icen.utils;
-using icen.数据;
-using icen.白魔.Utilities.设置;
+using ICEN2.数据;
+using ICEN2.白魔.设置.设置;
 
-namespace icen.common;
+namespace ICEN2.common;
 
 public static class Helper
 {

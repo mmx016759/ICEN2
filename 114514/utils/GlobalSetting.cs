@@ -3,7 +3,7 @@ using AEAssist.Helper;
 using AEAssist.IO;
 
 // ReSharper disable MemberCanBePrivate.Global
-namespace icen.utils;
+namespace ICEN2.utils;
 
 public class GlobalSetting
 {

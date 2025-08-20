@@ -1,7 +1,7 @@
 using System.Numerics;
 using ImGuiNET;
 
-namespace icen.utils.JobView;
+namespace ICEN2.utils.JobView;
 
 /// <summary>
 /// 现代化UI主题系统

@@ -3,10 +3,10 @@ using AEAssist.CombatRoutine.Module;
 using AEAssist.GUI;
 using AEAssist.Helper;
 using AEAssist.MemoryApi;
-using icen.utils.JobView;
+using ICEN2.utils.JobView;
 using ImGuiNET;
 
-namespace icen.白魔.View.TAB;
+namespace ICEN2.白魔.界面.TAB;
 
 public static class TimeLine
 {

@@ -1,6 +1,6 @@
 ﻿using FFXIVClientStructs.FFXIV.Client.Game;
 
-namespace icen.common;
+namespace ICEN2.common;
 
 public class ItemHelper
 {

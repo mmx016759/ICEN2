@@ -1,8 +1,8 @@
 ﻿using AEAssist.CombatRoutine.Module;
-using icen.白魔.循环.GCD;
-using icen.白魔.循环.能力技;
+using ICEN2.白魔.循环.GCD;
+using ICEN2.白魔.循环.能力技;
 
-namespace icen.白魔.循环;
+namespace ICEN2.白魔.循环;
 
 public static class 白魔技能策略
 {

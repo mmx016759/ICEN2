@@ -1,7 +1,7 @@
 ﻿using AEAssist.CombatRoutine.Module;
-using icen.白魔.循环.特殊策列;
+using ICEN2.白魔.循环.特殊策列;
 
-namespace icen.白魔.循环;
+namespace ICEN2.白魔.循环;
 
 public static class 白魔特殊序列
 {

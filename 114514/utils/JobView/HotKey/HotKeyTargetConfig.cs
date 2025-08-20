@@ -1,10 +1,10 @@
 ﻿using AEAssist.CombatRoutine;
 using Dalamud.Game.ClientState.Objects.Types;
-using icen.common;
+using ICEN2.common;
 
 // ReSharper disable FieldCanBeMadeReadOnly.Global
 
-namespace icen.utils.JobView.HotKey;
+namespace ICEN2.utils.JobView.HotKey;
 
 public static class HotKeyTargetConfig
 {

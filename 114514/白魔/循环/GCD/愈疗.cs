@@ -3,12 +3,13 @@ using AEAssist.CombatRoutine.Module;
 using AEAssist.Extension;
 using AEAssist.Helper;
 using AEAssist.MemoryApi;
-using icen.common;
-using icen.数据;
-using icen.白魔.Utilities.设置;
-using icen.白魔.View.QT;
-using icen.白魔.技能数据;
-namespace icen.白魔.循环.GCD;
+using ICEN2.common;
+using ICEN2.数据;
+using ICEN2.白魔.技能数据;
+using ICEN2.白魔.界面.QT;
+using ICEN2.白魔.设置.设置;
+
+namespace ICEN2.白魔.循环.GCD;
 
 public class 愈疗 : ISlotResolver
 {

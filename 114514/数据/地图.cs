@@ -1,5 +1,5 @@
 ﻿// ReSharper disable MemberCanBePrivate.Global
-namespace icen.数据;
+namespace ICEN2.数据;
 
 public static class 地图
 {
